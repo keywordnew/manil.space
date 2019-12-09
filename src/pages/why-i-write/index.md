@@ -1,9 +1,35 @@
 ---
-title: 'The Elements of UI Engineering'
-date: '2018-12-30'
-spoiler: What makes UI engineering difficult?
+title: 'Why I Write'
+date: '2019-12-04'
+spoiler: To have a conversation.
 ---
 
+## Why even think about it?
+
+Before kicking off this blog, I thought about why I would write. I've written before, here, here, and here. But it didn't really stick as a habit and I wanted to get to the root of the issue before investing time again. I considered two options before landing on a third.
+
+## First option: I could write about my interests.
+
+I see blogs list their writer's interests all the time. But my interests are many, scattered, and range from the superficial to the obsessive. Which do I write about? I'm interested in coffee (recent development). But that only extends as far as knowing just enough to make myself a decent café au lait (thanks to my manager and ex-manager, I now do). I'm interested in climate change, but I leave it to more driven folks to take the lead, and I'm happy to follow from the sidelines. That leaves the stuff I really care about. But, to me, is not actually a reason to write.
+
+Second option: I will write about what I know.
+
+Two reasons this is not a good fit. First, it's difficult for me to claim I know something. I get this feeling that I'm claiming to be an expert and I am only rarely. It massively exacerbates my impostor syndrome. Second, I like to learn. Growth is important, else I'd get bored, but sometimes 
+
+Third option: I will write about stuff around which I want to connect with people. (👈🏽 I chose this.)
+
+Instead, this is what my blog is for. It is for kicking off conversations I would like to have. I'd like to start having a conversation where I know at least enough to kick things off and hope that others will similar interests of different experiences will join in.
+
+Here's 5 topics I'm happy to engage if someone were to walk upto me in a bar and ask (If I'm in a cafe I'm working, but non-alcoholic bevs are good too):
+* Developer Experience
+* Open Source
+* Privacy
+* Security, of the tech flavor. Geopolitical security is my elected representative's day job.
+* Distributed work and teams
+
+I like to collaborate. Writing and discussing is a component of collaboration.
+
+---
 In my [previous post](/things-i-dont-know-as-of-2018/), I talked about admitting our knowledge gaps. You might conclude that I suggest settling for mediocrity. I don’t! This is a broad field.
 
 I strongly believe that you can “begin anywhere” and don’t need to learn technologies in any particular order. But I also place great value in gaining expertise. Personally I’ve mostly been interested in creating user interfaces.

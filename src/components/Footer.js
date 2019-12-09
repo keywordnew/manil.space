@@ -38,6 +38,14 @@ class Footer extends React.Component {
           rel="noopener noreferrer"
         >
           mastodon
+        </a>{' '}
+        &bull; blog inspired by{' '}
+        <a
+          href="https://github.com/keywordnew/manil.space/blob/master/README.md"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Overreacted
         </a>
       </footer>
     );
