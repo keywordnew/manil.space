@@ -8,43 +8,51 @@ spoiler: To have a conversation.
 
 I've written before: [on Medium](https://medium.com/@keywordnew), [on my uni blog](https://blogs.ubc.ca/chowdhurian/), and [for publications](https://scholar.google.ca/citations?user=NkPrDiYAAAAJ&hl=en). 
 
-But I published rarely and writing didn't really stick as a habit. 
+But I published rarely and writing for an audience didn't really stick as a habit. 
 
-Why? I didn't know. But I wanted to understand better before investing time again. 
+Why? I didn't know. 
 
-## First motivation: _"Write about what I know."_
+I wanted to understand better before investing time writing again. 
 
-I see two reasons this is not a good motivation for me. 
+## Motivation A: _"Write about what I know."_
 
-First, it's tough to claim I know something. I get a sense that I'm impersonating an expert. The only exceptions are where my personal blend of experience coincidentally fits an ask. In most cases, using this reason to write will throw fuel on my impostor syndrome 🔥🔥🔥
+This is not a good motivation for me.
 
-Second, and this is related to the first, I like to grow. Growth is important, else I'd get bored. So let's say I want to learn a Thing? At which point do I know enough to write about the Thing?
+It's tough for me to claim knowledge of a Thing or an Idea. I get a sense that I'm impersonating an expert. 
+
+I **am** comfortable saying that I know something when my personal combination of experience is a fit. This happens mostly when I've invested enough time on that subject or in that space. 
+
+The amount of time I feel is "enough" can be hugely variable. In most cases, using this reason to write will throw fuel on my impostor syndrome 🔥🔥🔥
 
 So, ~~"Write about what I know."~~
 
-## Second motivation: _"Write to share my interests."_
+## Motivation B: _"Write to share my interests."_
 
 My interests are many, scattered, and range from the superficial to the obsessive. Which do I write about? 
 
-I'm interested in coffee (it's recent development). But that only extends as far as knowing just enough to make myself a decent café au lait (and thanks to my manager, I now do). It's a shallow level of interest.
+I'm interested in coffee (it's recent development). But that only extends as far as knowing just enough to make myself a decent café au lait. It's a shallow level of interest.
 
-I'm interested in climate change, but I leave it to more driven folks to push the issue, and I'm happy to follow their lead.
+I'm interested in climate change. But I leave it to more driven folks to forge a path, and I'm happy to follow their lead.
 
-Then there is the stuff I really care about, the stuff into which I invest my time: open source, ethics, design, distributed work (aka remote work), privacy, security. There's promise here but it's still not enough. The last unanswered question is: "What is publishing on the internet worth to me?"
+Then there is the stuff about which I give a damn. Here is where I invest my time, in the hope that my effort contributes to its progress: open source, ethics, design, distributed (aka, remote) work, privacy, security. 
 
-"Write to share my interests" doesn't answer that question.
+I'm getting closer to a good motivation, but it's not there yet. Strong interest doesn't answer the question: _"What is publishing on the web worth to me?"_
 
-## Third option: _"Write about stuff around which I want to connect with people."_
+I wrote ["Anyone Can: Set up your own VPN"](https://medium.com/press-start-to-begin/anyone-can-ssh-into-a-server-scp-files-from-it-set-up-your-own-vpn-or-all-of-the-above-471a06e310bd) mostly to document a process for me to reference later. Yes, I'm interested in security and privacy, but it wasn't enough to publish it on the internet. I decided to go one more step and publish because it would surface the results of my digging for others looking for help (like I had done myself) doing the same thing.
+
+So, speaking for myself, _"Write to share my interests"_ isn't enough of a reason.
+
+## Motivation C: _"Write about stuff about which I want to connect with people."_
 
 _Spoiler: I chose this._
 
-This is what my blog is for. 
+This is what I've decided my blog is for. 
 
 This is why I publish on the internet.
 
-Yes, I know something about a Thing. At minimum, it's enough to ask questions.
+Yes, I know something about a Thing or Idea. At minimum, it's enough to ask questions and get answers from others who may have them.
 
-And yes, I'm interested in the Thing.
+And yes, I'm interested in the Thing. Enough to give a shit about how the Thing evolves and what we do with it.
 
 But most of all, I want to have a conversation about the Thing with you, the Reader.
 
