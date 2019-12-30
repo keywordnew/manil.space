@@ -135,7 +135,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-ebook`,
       options: {
-        filename: 'overreacted-ebook.epub',
+        filename: 'nilspace-ebook.epub',
         query: `
           {
             site {
