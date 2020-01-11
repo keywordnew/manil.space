@@ -78,5 +78,8 @@
       "yarn run js-to-jsx",
       "git add"
     ]
+  },
+  "resolutions": {
+    "**/sharp": "^0.23"
   }
 }
