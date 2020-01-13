@@ -39,7 +39,7 @@ class Footer extends React.Component {
         >
           mastodon
         </a>{' '}
-        &bull; blog inspired by{' '}
+        &bull; inspired by{' '}
         <a
           href="https://github.com/keywordnew/manil.space/blob/master/README.md"
           target="_blank"
