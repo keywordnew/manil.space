@@ -8,7 +8,13 @@ And so begins my year of shallow-deep dives into APIs on the web.
 
 I've taken on a role of advocating for API best practices in my organization. A non-trivial part of this will be educating people about APIs.
 
-So I started evaluating Postman as a learning tool for using APIs. I discovered their documentation, which is [open sourced](https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/postman/launching-postman/sending-the-first-request.md). (Woop woop!)
+So I started evaluating Postman as a learning tool for using APIs. I discovered their documentation, which is [open-sourced](https://github.com/postmanlabs/postman-docs/blob/develop/src/pages/docs/postman/launching-postman/sending-the-first-request.md) :-) I'll be using their docs to get familiar with Postman.
+
+## 🔍 What are HTTP headers?
+
+HTTP headers are extra information being passed between the client (usually the browser) and server.
+
+So what information can this be? We've got a bunch of examples from the HTTP response above to get started.
 
 ## 🙌🏽 Getting hands on with API education
 
@@ -38,14 +44,6 @@ And the JSON response I got back looked like this:
 
 What are these headers that are being sent back to me by the server? What are these used for?
 
-## 🔍 What are HTTP headers?
-
-HTTP headers are extra information being passed between the client (usually the browser) and server. 
-
-![Metadata.](./metadata.gif)
-
-So what information can this be? We've got a bunch of examples from the HTTP response above to get started.
-
 ### ```"x-forwarded-proto": "https"```
 
 This shows the protocol of my original GET request. 
@@ -62,9 +60,7 @@ It can also include the listening TCP port number but this is dropped if the por
 
 ### ```"accept": "*/*"```
 
-This is what the client uses to tell the server which content types it can understand. `*/*` means "any MIME type". A MIME type or media type is the format of a file. MIME types include `text/plain` for `.txt`, `font/ttf` for True Type Fonts, and `image/svg+xml` for SVGs.
-
-![What are you?](./what-are-you.gif)
+This is what the client uses to tell the server which content types it can understand. `*/*` means "I can understand any content type". A MIME type or media type is the format of a file. MIME types include `text/plain` for `.txt`, `font/ttf` for True Type Fonts, and `image/svg+xml` for SVGs.
 
 When I see `.js` files in a project, I understand that I'll need to put on my JavaScript hat to work with it. In the same way, browsers use MIME types (not file extensions) to understand how to work with a URL.
 
