@@ -1,7 +1,7 @@
 ---
-title: 'APIs Par Introspection: HTTP Headers'
+title: 'API: HTTP Headers'
 date: '2020-01-12'
-spoiler: I used half the time thinking of recursive acronyms for this series.
+spoiler: "I used half the time thinking of recursive acronyms for this series: APIs Par Introspection"
 ---
 
 And so begins my year of shallow-deep dives into APIs on the web.
