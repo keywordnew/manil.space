@@ -6,6 +6,13 @@ Overreacted.io was in turn forked from [Gatsby blog starter](https://github.com/
 
 To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 
+## Maintenance
+
+1. Check upstream for updated infrastructure
+2. `cherry-pick` relevant commits
+3. Run `npm audit` to get a report of necessary fixes.
+4. Run `npm audit fix` to begin applying fixes.
+
 ## Contributing Translations
 
 You can translate any article on the website into your language!
