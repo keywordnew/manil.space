@@ -8,7 +8,7 @@
     "url": "https://github.com/keywordnew/manil.space/issues"
   },
   "dependencies": {
-    "gatsby": "^2.0.76",
+    "gatsby": "^2.22.12",
     "gatsby-plugin-catch-links": "^2.0.9",
     "gatsby-plugin-ebook": "^1.0.2",
     "gatsby-plugin-feed": "^2.0.8",
@@ -61,6 +61,9 @@
     "dry": "yarn build && cp now.json public/ && cd public && now",
     "js-to-jsx": "node src/utils/js-to-jsx"
   },
+  "engines": {
+    "node": "12.x"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
@@ -75,5 +78,8 @@
       "yarn run js-to-jsx",
       "git add"
     ]
+  },
+  "resolutions": {
+    "**/sharp": "^0.23"
   }
 }
