@@ -1,5 +1,5 @@
 ---
-title: '💪 Anyone Can: Set up your own VPN'
+title: '💪 You Can: Set up your own VPN'
 date: '2020-03-13'
 spoiler: 'Alternative title: "ssh into a server, scp files from it, set up your own VPN, or all of the above".'
 ---
@@ -216,7 +216,7 @@ To recap, this is what you did! You:
 
 **If you did any of the above for the first time, yay! I wrote this mainly for you and I hope you liked it.**
 
-To my friend Steven Hsu who first taught me how to set up a VPN: thank you for your patience! ^_^
+To my friend, [Steven Hsu](https://www.stevenhsu.ca/), who first taught me how to set up a VPN: thank you for your patience! ^_^
 
 ---
 
