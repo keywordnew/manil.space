@@ -10,7 +10,9 @@ To set up a favicon for a webpage, I used a link element. The [link element](htt
 
 The appropriate value for `rel` is "icon", like: 
 
-`<link rel='icon'>`
+```jsx
+<link rel='icon'>
+```
 
 The `rel` (relationship) attribute describes how the resource being linked is related to the current document. 
 
@@ -18,11 +20,13 @@ When the relationship is as an "icon" for a page, the browser knows to use the `
 
 I also have examples of a link element like this:
 
-`<link rel='shortcut icon'>`
+```jsx
+<link rel='shortcut icon'>
+```
 
 Use of the "shortcut" value preceeding "icon" was proprietary to Internet Explorer. While it's still supported for "historical reasons", it's definitely not necessary. MDN specifically recommends [not using it anymore](https://beta.developer.mozilla.org/en-US/docs/Web/HTML/Link_types).
 
-All modern browsers look for a `favicon.ico` file at the root of a site. When a `<link>` with a `rel` value of `icon` is not specified, that is the behaviour to which they fall back.
+All modern browsers look for a `favicon.ico` file at the root of a site. When a `<link>` with a `rel` value of `icon` is not specified, that is the behaviour to which they fall back. Here are a few sites that make use of this behaviour.
 
 https://www.canada.ca/favicon.ico
 
@@ -42,4 +46,4 @@ Explicitly declaring the favicon [does make one difference](https://mathiasbynen
 
 💬 _Thanks for reading all the way through! Let me know what you think. You can (at)me on [Mastodon](https://toot.cafe/@manil) or [Twitter](https://twitter.com/keywordnew)_.
 
-🤝 _Looking for a consult? Request a connection using [this handy form](https://manil219750.typeform.com/to/tu4vPj). It's handy because you don't have to think of what to write in an email. Just fill out the form, I will email you ;-)_
+🤝 _Looking for a consult? Request a connection using [this handy form](https://manil219750.typeform.com/to/tu4vPj). It's handy because you don't have to think of what to write in an email. Just fill out the form, I will email you_ ;-)

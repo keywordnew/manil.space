@@ -58,3 +58,8 @@ But most of all, I want to have a conversation about the Thing with you, the Rea
 
 My personal blog is for sparking conversations I would like to have. The sort of conversation I wouldn't mind having if a stranger tapped me on the shoulder at a social and said "Hey, I'm interested in the Thing too! Do you have a few minutes to chat?"
 
+---
+
+📡 _This blog has an RSS feed: https://manil.space/rss.xml_
+
+💬 _Thanks for reading all the way through! Let me know what you think. You can (at)me on [Mastodon](https://toot.cafe/@manil) or [Twitter](https://twitter.com/keywordnew)_.

@@ -24,7 +24,7 @@ I made the GET request to this URL: `postman-echo.com/get`
 
 And the JSON response I got back looked like this:
 
-```
+```jsxon
 {
     "args": {},
     "headers": {
@@ -44,7 +44,7 @@ And the JSON response I got back looked like this:
 
 What are these headers that are being sent back to me by the server? What are these used for?
 
-### ```"x-forwarded-proto": "https"```
+### x-forwarded-proto
 
 This shows the protocol of my original GET request. 
 
@@ -52,23 +52,23 @@ The server may receive a request in `HTTP` even if my GET request is made with `
 
 This header is a non-standard. It is a widely-used convention that is now  standardized using the `Forwarded` header. Use `Forwarded` when you can.
 
-### ```"host": "postman-echo.com"```
+### host
 
 This shows the domain name of the server to which we made the GET request.
 
 It can also include the listening TCP port number but this is dropped if the port used is the default for the service requested (like here). For example, an HTTP URL will use port 80 by default. So even if it would read `postman-echo.com:80`, it just reads `postman-echo.com`.
 
-### ```"accept": "*/*"```
+### accept
 
 This is what the client uses to tell the server which content types it can understand. `*/*` means "I can understand any content type". A MIME type or media type is the format of a file. MIME types include `text/plain` for `.txt`, `font/ttf` for True Type Fonts, and `image/svg+xml` for SVGs.
 
 When I see `.js` files in a project, I understand that I'll need to put on my JavaScript hat to work with it. In the same way, browsers use MIME types (not file extensions) to understand how to work with a URL.
 
-### ```"accept-encoding": "gzip, deflate"```
+### accept-encoding
 
 This tells the server which compression algorithms the client can understand. And yes, DEFLATE is a compression algorithm, not an instruction for handling `gzip`s.
 
-### ```"cache-control": "no-cache"```
+### cache-control
 
 This is an instruction for caching. 
 
@@ -76,17 +76,17 @@ This is an instruction for caching.
 
 So an HTTP request for the resource happens every time, but the browser can skip downloading the HTTP body if the server says the cached copy is still valid. I would get the same effect using a value of `max-age=0`.
 
-### ```"cookie": "sails.sid=some-name-here"```
+### cookie
 
 This contains stored HTTP cookies.
 
-### ```"postman-token": "acc19e6d-fdb8-4722-aea5-042408d96330"```
+### postman-token
 
 This is a Postman-specific header used to workaround a Chrome browser-specific bug. 
 
 Enough said.
 
-### ```"user-agent": "PostmanRuntime/7.21.0"```
+### user-agent
 
 This tells the server more about the client making the request. In this case, the client is the Postman Runtime. 
 
@@ -94,10 +94,18 @@ When I use the Firefox browser to send the same GET request to the server, my us
 
 ![User Agent for Firefox.](./user-agent-firefox.png)
 
-### ```"x-forwarded-port": "80"```
+### x-forwarded-port
 
 This is a non-standard header showing the port.
 
 ## 🏆 Going further
 
 Mozilla has [excellent resources](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) about HTTP headers.
+
+---
+
+📡 _This blog has an RSS feed: https://manil.space/rss.xml_
+
+💬 _Thanks for reading all the way through! Let me know what you think. You can (at)me on [Mastodon](https://toot.cafe/@manil) or [Twitter](https://twitter.com/keywordnew)_.
+
+🤝 _Looking for a consult? Request a connection using [this handy form](https://manil219750.typeform.com/to/tu4vPj). It's handy because you don't have to think of what to write in an email. Just fill out the form, I will email you_ ;-)
