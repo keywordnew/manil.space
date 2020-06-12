@@ -1,5 +1,5 @@
 ---
-title: 'Friction-logging the ActiveState service'
+title: 'Friction-logging: ActiveState'
 date: '2020-01-23'
 spoiler: Does what it says on the box.
 ---
@@ -35,3 +35,11 @@ _I’ve always found the [random name generator](https://github.com/new) to be o
 ## Final thoughts
 
 With a few exceptions that caused confusion and/or frustration, I found the service easy to use. I created a custom Python runtime successfully, and it left me with a good impression.
+
+---
+
+📡 _This blog has an RSS feed: https://manil.space/rss.xml_
+
+💬 _Thanks for reading all the way through! Let me know what you think. You can (at)me on [Mastodon](https://toot.cafe/@manil) or [Twitter](https://twitter.com/keywordnew)_.
+
+🤝 _Looking for a consult? Request a connection using [this handy form](https://manil219750.typeform.com/to/tu4vPj). It's handy because you don't have to think of what to write in an email. Just fill out the form, I will email you_ ;-)

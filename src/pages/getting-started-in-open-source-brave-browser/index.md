@@ -75,6 +75,10 @@ I usually give people 3 things with which to get started in an open source proje
 * **Contributor guide**: These should have everything a new contributor needs to get started. Here is [Brave's](https://github.com/brave/brave-browser/blob/master/CONTRIBUTING.md). It's quite thorough: it suggests different ways to contribute (people are often surprised by how many there can be), process guidance (don't assume people know your branching conventions, without being told 😜), etc.
 * **Good first issues**: This is a label that is conventionally added to Issues that need less insider knowledge to help resolve. Use this [filter](https://github.com/brave/brave-browser/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22) to see open Issues in brave-browser that are marked as good for first timers. 
 
-_Thanks for reading all the way through! Let me know what you're thinking about. You can @me on [Twitter](https://twitter.com/keywordnew) or [Mastodon](https://toot.cafe/@manil)_.
+---
 
-_Looking for help? Request a connection using [this handy form](https://manil219750.typeform.com/to/tu4vPj). It's handy because you don't have to think of what to write in an email. Just fill out the form, and it comes straight to me ;-)_
+📡 _This blog has an RSS feed: https://manil.space/rss.xml_
+
+💬 _Thanks for reading all the way through! Let me know what you think. You can (at)me on [Mastodon](https://toot.cafe/@manil) or [Twitter](https://twitter.com/keywordnew)_.
+
+🤝 _Looking for a consult? Request a connection using [this handy form](https://manil219750.typeform.com/to/tu4vPj). It's handy because you don't have to think of what to write in an email. Just fill out the form, I will email you ;-)_
