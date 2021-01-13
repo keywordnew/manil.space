@@ -1,5 +1,5 @@
 ---
-title: 'Sunsetting the surveillance'
+title: 'Sunsetting deprecated messaging tools'
 date: '2020-08-15'
 spoiler: Moving away from WhatsApp could take time. Here are dates, and more.
 ---
@@ -33,6 +33,7 @@ I'll return to this post and update the plan as needed.
 | Product | Deadline | Replacement |
 | ------- | ---- | ----------- |
 | WhatsApp | February 2021 | [Signal](https://www.signal.org/download/), and [Threema](https://threema.ch/en/download) |
+| Good ol' texts (SMS) | February 2021 | [Signal](https://www.signal.org/download/) |
 | Gmail | August 2021 | [Tutanota](https://www.tutanota.com/), or [ProtonMail](https://protonmail.com/) |
 | Twitter | November 2021 | [Mastodon](https://www.youtube.com/watch?v=IPSbNdBmWKE) |
 
