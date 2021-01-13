@@ -1,5 +1,5 @@
 ---
-title: 'Sunsetting the surveillance'
+title: 'Sunsetting deprecated messaging tools'
 date: '2020-08-15'
 spoiler: Moving away from WhatsApp could take time. Here are dates, and more.
 ---
@@ -24,7 +24,7 @@ Sunsetting products I use is a staged process; the above are just the ones that 
 
 Signal ([about](https://www.signal.org/#signal), [download](https://www.signal.org/download/)) and Threema ([about](https://threema.ch/en/about), [download](https://threema.ch/en/download)). I have both of these installed, although I don't know anyone yet on Threema and it's crickets for me right now (its userbase seems to be in Germany, I don't live near there 🇨🇦).
 
-Signal is opensource. Threema is [partially open](https://threema.ch/en/faq/source_code), and [audited regularly by external reviewers](https://threema.ch/en/faq/code_audit).
+Signal is open source. Threema is ~~[partially open](https://threema.ch/en/faq/source_code)~~ [open source](https://threema.ch/en/open-source), and [audited regularly by external reviewers](https://threema.ch/en/faq/code_audit).
 
 ## The sunset plan 🌅
 
@@ -33,6 +33,7 @@ I'll return to this post and update the plan as needed.
 | Product | Deadline | Replacement |
 | ------- | ---- | ----------- |
 | WhatsApp | February 2021 | [Signal](https://www.signal.org/download/), and [Threema](https://threema.ch/en/download) |
+| Good ol' texts (SMS) | February 2021 | [Signal](https://www.signal.org/download/) |
 | Gmail | August 2021 | [Tutanota](https://www.tutanota.com/), or [ProtonMail](https://protonmail.com/) |
 | Twitter | November 2021 | [Mastodon](https://www.youtube.com/watch?v=IPSbNdBmWKE) |
 
