@@ -13,6 +13,10 @@ To run locally, `yarn`, then `yarn dev`, then open https://localhost:8000.
 3. Run `npm audit` to get a report of necessary fixes.
 4. Run `npm audit fix` to begin applying fixes.
 
+## Gotchas
+
+* `nvm use 12`: otherwise you may get an error with `sharp` (`Something went wrong installing the "sharp" module...Module did not self-register`)
+
 ## Contributing Translations
 
 You can translate any article on the website into your language!
