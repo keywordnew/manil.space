@@ -16,7 +16,9 @@ WhatsApp, in 6 months.
 
 Why? WhatsApp is run by Facebook － who have shown [again](http://www.huffingtonpost.com/2010/05/07/facebook-privacy-changes_n_568345.html), [and again](https://www.nytimes.com/2018/10/15/technology/myanmar-facebook-genocide.html), [and yet again](https://www.theguardian.com/commentisfree/2020/jul/05/the-guardian-view-on-facebook-and-democracy-real-and-present-danger), that the company's interests work against the short- and long-term interests of we who don't pay money for its services.
 
-Gmail and G Suite － for having similar business models. The shortlisted alternatives do not have certain features I find irreplaceable (at this time) and the timeline for replacement is 12 months. With luck, competitors' feature-sets will mature by then.
+SMS is an outdated technology. If your choice to talk to someone is only between WhatsApp and SMS, choose WhatsApp. We [shouldn't even be using SMS for 2FA](https://venturebeat.com/2016/07/31/the-govt-says-sms-codes-arent-safe-so-now-what/).
+
+I'm no longer active on Twitter, although until the sunset deadline I am still using it for DMs.
 
 Sunsetting products I use is a staged process; the above are just the ones that are at the head of the line.
 
@@ -34,7 +36,6 @@ I'll return to this post and update the plan as needed.
 | ------- | ---- | ----------- |
 | WhatsApp | February 2021 | [Signal](https://www.signal.org/download/), and [Threema](https://threema.ch/en/download) |
 | Good ol' texts (SMS) | February 2021 | [Signal](https://www.signal.org/download/) |
-| Gmail | August 2021 | [Tutanota](https://www.tutanota.com/), or [ProtonMail](https://protonmail.com/) |
 | Twitter | November 2021 | [Mastodon](https://www.youtube.com/watch?v=IPSbNdBmWKE) |
 
 ## Join me! 💬 
